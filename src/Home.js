@@ -78,11 +78,11 @@ class MovieFinder extends React.Component {
           <div className="col-12">
             <form
               onSubmit={this.handleSubmit}
-              className="form-inline my-4 mx-4 col-5 d-flex justify-content-between"
+              className="form-inline my-4 mx-4 w-25 d-flex justify-content-between"
             >
               <input
                 type="text"
-                className="form-control mr-2 w-25 col-4"
+                className="form-control mx-4 w-75 col-4"
                 placeholder="frozen"
                 value={searchTerm}
                 onChange={this.handleChange}
