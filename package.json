@@ -1,0 +1,10 @@
+{
+  
+    "name": "first-react-app",
+    "version": "0.1.0",
+   "homepage": "https://kcampbell22.github.io/movie-finder-react/",
+    "private": true,
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
